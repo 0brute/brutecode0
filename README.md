@@ -1,10 +1,4 @@
-## Hi I'm Toufiq Hasan Kiron - aka <a href="https://toufiqhasankiron.me" target="_blank">Kiron</a>  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-I'm <a href="https://www.facebook.com/toufiqhasankiron" target="_blank">Toufiq Hasan Kiron</a> a Junior Web Developer. I Spend most of time coding outstanding projects.
-
-:mailbox: Reach me out!
-
-[![Twitter Badge](https://img.shields.io/badge/-@ToufiqHasan0-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ToufiqHasan0)](https://twitter.com/ToufiqHasan0) [![Mail Badge](https://img.shields.io/badge/-Toufiq_Hasan_Kiron-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCS_vQ5IzXERnAfxVQ-998Pw) [![Linkedin Badge](https://img.shields.io/badge/-Toufiq_Hasan_Kiron-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Toufiq-Hasan-Kiron/) [![Mail Badge](https://img.shields.io/badge/-@toufiq_hasan_kiron-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/toufiq_hasan_kiron) [![Mail Badge](https://img.shields.io/badge/-Toufiq_Hasan_Kiron-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:toufiqhasankiron@yahoo.com)
+## Hi I'm Brute Code - aka Brute  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ### 🙋‍♂️ About Me
 
@@ -36,24 +30,19 @@ I'm <a href="https://www.facebook.com/toufiqhasankiron" target="_blank">Toufiq H
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/> </a>
 </p>
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
 <p align="center">
-    <a href="https://github.com/kiron0/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=kiron0&theme=nightowl&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/brutecode0/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=brutecode0&theme=nightowl&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-![Kiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiron0&theme=nightowl&show_icons=true)
+![Kiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=brutecode0&theme=nightowl&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiron0&theme=nightowl&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brutecode0&theme=nightowl&layout=compact)
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=kiron0">
+    <img src="https://komarev.com/ghpvc/?username=brutecode0">
 </a>
-<a href="https://github.com/kiron0?tab=followers"><img src="https://img.shields.io/github/followers/kiron0?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/brutecode0?tab=followers"><img src="https://img.shields.io/github/followers/brutecode0?label=Followers&style=social" alt="GitHub Badge"></a>
 
