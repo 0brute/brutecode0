@@ -30,6 +30,11 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/> </a>
 </p>
 
+<details>
+<summary>
+  More stuff about me
+</summary>
+
 <p align="center">
     <a href="https://github.com/brutecode0/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=brutecode0&theme=nightowl&stroke=0000&background=060A0CD0"/>
